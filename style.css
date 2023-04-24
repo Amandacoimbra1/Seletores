@@ -1,0 +1,45 @@
+        #forma1{
+            display:inline-block;
+            top: 10px;
+            right: 10px;
+            width: 200px;
+            height: 200px;
+            background-color: red;
+            border: 0.7mm solid rgb(14, 13, 13);
+            margin: 0px;
+        }
+        #forma2{
+            display:inline-block;
+            right: 0px;
+            width: 200px;
+            height: 200px;
+            background-color: red;
+            border: 0.001mm solid white;
+        }
+        #forma3{
+            display:inline-block;
+            top: 10px;
+            right: 10px;
+            width: 200px;
+            height: 200px;
+            background-color: rgb(0, 60, 255);
+            border:0.001mm solid white;
+        }
+        #forma4{
+            display:inline-block;
+            top: 10px;
+            right: 10px;
+            width: 200px;
+            height: 200px;
+            background-color: green;
+            border:0.001mm solid white;
+        }
+        #forma5{
+            display:inline-block;
+            top: 10px;
+            right: 10px;
+            width: 200px;
+            height: 200px;
+            background-color: yellow;
+            border:0.001mm solid white;
+        }
